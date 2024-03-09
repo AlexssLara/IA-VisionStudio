@@ -25,3 +25,8 @@ Imagens recomendadas:
 ![1_padree-21568910](https://github.com/AlexssLara/IA-VisionStudio/assets/135771199/3003d326-3c65-4e81-8658-d5af0517d7c2)
 ![um-homem-levantando-peso-na-academia_966909-281](https://github.com/AlexssLara/IA-VisionStudio/assets/135771199/ccb45ff4-de4f-47c8-b78e-d3f2bb6a1eed)
 ![15983913555f45843b71558_1598391355_3x2_md](https://github.com/AlexssLara/IA-VisionStudio/assets/135771199/fa28b788-af5a-4d69-a6c2-aabd80b3639e)
+
+
+Resultados para mim:
+
+Como eu nunca havia tocado  em uma IA, foi muito incrível ter feito esse pequeno projeto, foi totalmente iniciação minha sozinho querendo aprender sobre os sistemas azure de IA. Recomendo pra todos que estão iniciando a futucar a plataforma com o acesso gratuito e ver realmente como funciona uma parcela da IA. Em resumo, estou empolgado.
