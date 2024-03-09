@@ -19,3 +19,4 @@ Vá em "image analysis" >>> "add captions to image" >>> use o "Browse for a file
 
 Imagens recomendadas:
 
+![FRiwKDVX0AA9yDL](https://github.com/AlexssLara/IA-VisionStudio/assets/135771199/a037cd3e-48ec-41f0-8e13-6320c989efc9)
